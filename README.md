@@ -8,7 +8,7 @@
 #### Features
 
 * Real time text message
-* Tag Recommendation using machine learning algorithm
+* Tag Recommendation using mobile net machine learning algorithm
 * Distance calculation
 
 ## Application Screen Shot
